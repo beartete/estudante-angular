@@ -23,6 +23,14 @@
       "telefone": "(11)9998-7685",
       "data_nasc": "30/02/2003",
       "ra": 1726354
+    },
+    {
+      "id": 4,
+      "name": "Rafael Gomes",
+      "email": "rafael.gomes@fatec.sp.gov.br",
+      "telefone": "(11)9090-7869",
+      "data_nasc": "2023-05-10",
+      "ra": 7162534
     }
   ]
 }

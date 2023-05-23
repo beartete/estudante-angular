@@ -1,0 +1,88 @@
+/* Estilos para o formulário */
+.form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .display-6 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    width: 100%;
+  }
+  
+  .input-group-text {
+    background-color: #fff;
+    border: 1px solid #ced4da;
+  }
+  
+  .form-control {
+    border: 1px solid #ced4da;
+  }
+  
+  .ra .input-group-text {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .telefone .input-group-text {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .email .input-group-text {
+    background-color: #ffc107;
+    color: #fff;
+  }
+  
+  .data-nasc .input-group-text {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  /* Estilos para a tabela */
+  .tabela {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .table {
+    background-color: #fff;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ced4da;
+  }
+  
+  .table thead {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+  
