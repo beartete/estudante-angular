@@ -1,0 +1,28 @@
+{
+  "estudantes": [
+    {
+      "id": 1,
+      "name": "Isabella Cristina Vieira",
+      "email": "isabella.vieira@fatec.sp.gov.br",
+      "telefone": "(11)4002-8922",
+      "data_nasc": "22/12/2004",
+      "ra": 1234567
+    },
+    {
+      "id": 2,
+      "name": "Mariana de Castro Rosa",
+      "email": "mariana.rosa@fatec.sp.gov.br",
+      "telefone": "(11)4023-0098",
+      "data_nasc": "16/12/2002",
+      "ra": 7654321
+    },
+    {
+      "id": 3,
+      "name": "Matheus Borges",
+      "email": "matheus.borges@fatec.sp.gov.br",
+      "telefone": "(11)9998-7685",
+      "data_nasc": "30/02/2003",
+      "ra": 1726354
+    }
+  ]
+}
